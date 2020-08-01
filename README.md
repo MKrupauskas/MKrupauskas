@@ -10,7 +10,3 @@
 # Stats 📈
 
 ![MKrupauskas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKrupauskas&count_private=true&show_icons=true)
-
-# Mood 👨‍💻
-
-![programming](https://i.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif)
