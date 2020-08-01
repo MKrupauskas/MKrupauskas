@@ -7,6 +7,10 @@
 - [Recap of YGLF 2019](https://dev.to/mkrup/recap-of-yglf-2019-keo)
 <!-- BLOG-POST-LIST:END -->
 
-[MKrupauskas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKrupauskas&count_private=true&show_icons=true)
+# Stats 📈
+
+![MKrupauskas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKrupauskas&count_private=true&show_icons=true)
+
+# Mood 👨‍💻
 
 ![programming](https://i.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif)
